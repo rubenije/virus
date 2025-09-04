@@ -8,3 +8,4 @@ dist/
 *.log
 coverage/
 *.bak
+*.scss
